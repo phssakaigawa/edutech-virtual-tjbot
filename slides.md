@@ -1,13 +1,3 @@
----
-theme : "simple"
-transition: "slide"
-highlightTheme: "monokai"
-logoImg: "img/ch08/tjbot.png"
-slideNumber: true
-title: "Hello, Virtual TJBot"
----
-
-
 # Hello, Virtual TJBot
 
 BMXUG TJBotFan
