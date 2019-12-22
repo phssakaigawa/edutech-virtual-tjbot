@@ -16,8 +16,7 @@ Shoichiro Sakaigawa
 IBMChampion Cloud 2018-2019
 
 Pumpkin Heads 株式会社代表取締役
-<br>
-<br>
+
 著書：
 
 コンテナ・ベース・オーケストレーション
@@ -311,6 +310,23 @@ Virtual TJBot ではどのように置き換えをしているのか差分を紹
 ## ここまでで Virtual TJBot のセットアップと說明は終了です
 
 ## ぜひ TJBot とクラウドを組み合わせて遊んでみてください
+
+---
+
+参考： TJBot の操作
+
+Qiita 記事)自作 AI ロボット TJBot Zero で遊んでみる
+
+https://qiita.com/zuhito/items/cd9d8cfefab1fbacaf69
+
+---
+
+参考： TJBot を Watson Assistant で会話する
+
+スマートスピーカーはこういったフローの積み重ねで作られています
+
+Qiita 記事)TJBot zero と会話しよう！
+https://qiita.com/Shibu-Shin/items/954f4693d3009f854395
 
 ---
 
