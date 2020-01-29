@@ -13,7 +13,7 @@ Shoichiro Sakaigawa / @l_s_s_l
 
 Shoichiro Sakaigawa
 
-IBMChampion Cloud 2018-2019
+IBMChampion Cloud 2018-2020
 
 Pumpkin Heads 株式会社代表取締役
 
@@ -338,6 +338,15 @@ https://qiita.com/Shibu-Shin/items/954f4693d3009f854395
 
 Facebook / Twitter なども ↑ から
 
+---
+
+## 告知 2
+
+### 技術書典８ Day2に出展します。
+
+TJBotのデモや書籍の販売を行います。
+
+<img src="./img/techbookfest8.jpg" height="300">
 ---
 
 ## Thanks! <br> have a fun TJBot!!
